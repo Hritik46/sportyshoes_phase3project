@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>hritik Gupta</title>
+<title>hritik</title>
 <style type="text/css">
 
 .main{
